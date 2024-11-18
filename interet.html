@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+    <title>Intérêt</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../CSS/interet.css">
+    <link rel="icon" href="../Images/icone_interet.png"/>
+
+</head>
+<body>
+    
+    <barreNav>
+
+        <retour>
+            <a href="index.html"><img width="7%" src="../Images/retour.png"></a>
+        </retour>
+
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="interet.html">Intérêts</a></li>
+            <li><a href="apprentissage.html">Apprentissage</a></li>
+        </ul>
+    
+    </barreNav>
+    
+    <button id="boutonMA"><img id="imageMA" width="20%" src="../Images/afficher.png"></button>
+
+    <div class="tdm">
+
+        <h2>Table des Matières</h2>
+
+        <ul>
+            <li><a href="#section1">Une passion</a></li>
+            <li><a href="#section2">Les règles</a></li>
+            <li><a href="#section3">Les plus grandes compétitions</a></li>
+            <li><a href="#section4">Les récompenses individuelles</a></li>
+        </ul>
+
+    </div>
+
+
+    <script>
+
+        // Code JavaScript qui permet d'afficher ou de masquer la table de matières avec un bouton et qui change également l'image du bouton suivant l'état de la table des matières
+        const toggleTocButton = document.getElementById('boutonMA');
+        const tableOfContents = document.querySelector('.tdm');
+        var image = document.getElementById("imageMA");
+
+        toggleTocButton.addEventListener('click', function() {
+            if (tableOfContents.style.display === 'none' || tableOfContents.style.display === '') {
+                tableOfContents.style.display = 'block';
+                image.src = "../Images/masquer.png";
+            } else {
+                tableOfContents.style.display = 'none';
+                image.src = "../Images/afficher.png";
+            }
+        });
+
+    </script>
+
+
+    <hr class="separation">
+
+    &nbsp 
+    
+    <int>
+
+        <h1>Mon Intérêt : Le Football</h1>
+
+        &nbsp
+
+        <div class="sections" id="section1">
+
+            <div class="texteS">
+                <h2>Une passion</h2>
+                &nbsp
+                <p>Depuis petit, le football me passionne. En le pratiquant ou en le regardant, il me fait vivre des émotions uniques allant de l'excitation et la joie à la déception et la frustration.</p>
+                &nbsp
+                <p>Le football est un sport qui rassemble, qui unis, il a le pouvoir de rassembler des individus de différentes origines, cultures et nationalités autour d'un ballon. Chacun peut soutenir une équipe ou un joueur préféré, peu importe d'où il vient, renforçant le sentiment d'appartenance à une communauté mondiale</p>
+                &nbsp
+                <p>Le <a href="https://www.fcbarcelona.fr/fr/" target="_blank">FC Barcelone</a> est mon club de coeur même si le <a href="https://www.stade-de-reims.com" target="_blank">Stade de Reims</a> a une place importante pour moi car c'était le club profesionnel le plus proche de chez moi et celui où j'ai assisté à mon premier match au stade.</p>
+                &nbsp
+                <p><a href="https://youtu.be/ZHi6_qetibA?si=kfGQPS-t1l00q3xC" target="_blank">Les Plus Beaux et Émotionnels Moments Dans Le Football</a></p>
+            </div>
+
+            <div class="imageS">
+                <img src="../Images/celebRemontada.jpg">
+            </div>
+
+        </div>
+
+        <hr class="separation">
+        
+        <div class="sections" id="section2">
+
+            <div class="texteS">
+                <h2>Les règles</h2>
+                &nbsp
+                <p>Les <a href="https://www.caminteresse.fr/culture/quelles-sont-les-regles-du-football-11186586/#:~:text=Un%20match%20de%20football%20dure,le%20camp%20de%20but%20adverse." target="_blank">règles du football</a> sont plutôt simples. Deux équipes de 11 joueurs s'affrontent afin de faire passer le ballon dans le but adverse afin de marquer le plus de buts possibles.</p>
+                &nbsp
+                <p>Un match comprend deux mi-temps de 45 minutes chacune. L'équipe avec le plus de buts à la fin du match l'emporte donc. En cas de match nul à la fin de ces 90minutes et si le match est à éliminination directe, deux mi-temps de 15 minutes chacune sont rajoutés au match afin de laisser plus de temps aux équipes pour se départagés. Si cela ne suffit pas, une séance de tirs au but conclut le match</p>
+                &nbsp
+                <p>Une des règles les plus importantes est bien sur l'interdiction d'utiliser les mains ou les bras (jusqu'à hauteur de manches), sauf pour le gardien de but évidemment qui lui doit arrêter la balle, chose qui serait donc compliquer sans pouvoir la toucher avec les mains.</p>
+                &nbsp
+                <p>Le <a href="https://www.goal.com/fr/news/cest-quoi-un-hors-jeu--lexplication-de-la-regle/4i0ejz4j5d801r06eqia7os33" target="_blank">hors-jeu</a> représente l'une des règles principales de ce sport : lorsque le joueur se trouve plus près de la ligne de but adverse que le dernier défenseur de l'équipe adverse au moment de la passe d'un de ses coéquipiers, l'arbitre se doit de siffler une faute. Cette règle a pour but de mettre plus d'égalité car sans cela, l'équipe qui attaque pourrait prendre une avance considérable sur la défense adverse et ainsi largement facilité le scorage.</p>
+                &nbsp
+                <p>Il existe ensuite quelques règles supplémentaires concernant les fautes, les coups de pied arrêtés et les cartons jaunes et rouges pour les comportements répréhensibles.</p>
+                &nbsp
+                <p><a href="https://youtu.be/MXCSB9G-ptk?si=T67xWIytsf-LG1lG" target="_blank">Top 8 des trucs à savoir sur le foot en 5 minutes</a></p>
+            </div>
+
+            <div class="imageS">
+                <img src="../Images/terrain.jpg">
+            </div>
+
+        </div>
+
+        <hr class="separation">
+
+        <div class="sections" id="section3">
+
+            <div class="texteS">
+                <h2>Les plus grandes compétitions</h2>
+                &nbsp
+                <p>En tant que sport le plus populaire du monde, le football possède de nombreuses compétitions de renommées internationales.</p>
+                &nbsp
+                <p>Tout d'abord, la <a href="https://www.fifa.com/fr/tournaments/mens/worldcup" target="_blank">Coupe du Monde de la FIFA</a>, surement le tournoi le plus prestigieux au monde. Elle a lieu tous les quatre ans et seules les meilleures équipes nationales du monde participe à cette compétition.</p>
+                <p>La première Coupe du Monde a eu lieu en 1930, et elle est devenue l'événement sportif le plus suivi de la planète avec près d'1,5 milliard de téléspectateurs lors de la dernière ayant eu lieu fin 2022 qui a vu <a href="https://www.eurosport.fr/football/coupe-du-monde/2022/qatar-2022-argentine-france-c-est-la-plus-grande-finale-de-l-histoire_vid1793826/video.shtml" target="_blank">l'Argentine remporté sa troisième étoile</a> au détriment d'une Equipe de France encore double championne du monde.</p>
+                &nbsp
+                <p>Le <a href="https://fr.uefa.com/euro2024/" target="_blank">championnat d'Europe de l'UEFA</a>, plus connu sous le nom d'Euro, réunit les meilleurs équipes nationales d'Europe tous les 4 ans en alternance avec la Coupe du Monde.</p>
+                <p>Le dernier vainqueur est l'Italie qui a rémporté pour la deuxième fois cette compétition est qui est prête à remettre son titre en jeu des le mois de juin 2024.</p>
+                &nbsp
+                <p>Enifn, la <a href="https://fr.uefa.com/uefachampionsleague/" target="_blank">Ligue des Champions de l'UEFA</a> est la compétition de clubs la plus prestigieuse du monde. Elle oppose les meilleures clubs d'Europe, avec des matchs de groupe aussi appelés "poules" suivis de matchs a éliminination directe pour déterminer le grand gagnant.</p>
+                <p>A titre d'information, les clubs français n'ont réussi à avoir ce trophée dans leur armoire qu'à une seule reprise <a href="https://www.dna.fr/sport/2023/05/26/ligue-des-champions-1993-marseille-un-sacre-toujours-d-actualite" target="_blank">grâce à l'OM en 1993</a>, c'est pour montrer la complexité de cette compétition alors que la France a toujours eu de très grands clubs.</p>
+            </div>
+
+            <div class="imageS">
+                <img src="../Images/cdm.jpg">
+            </div>
+
+        </div>
+
+        <hr class="separation">
+
+        <div class="sections" id="section4">
+
+            <div class="texteS">
+                <h2>Les récompenses individuelles</h2>
+                &nbsp
+                <p>Le football décerne également plusieurs récompenses individuelles prestigieuses chaque année pour reconnaître les performances exceptionnelles des joueurs.</p>
+                &nbsp
+                <p>Le <a href="https://www.francefootball.fr/ballon-d-or/" target="_blank">Ballon d'Or</a> est l'une des récompenses les plus prestigieuses du football. Il est décerné chaque année par le magazine français France Football au meilleur joueur du monde. Le futur gagnant est choisi par les votes cumulés d'un journaliste sportif de chaque pays du monde.</p>
+                <p>Le footballeur ayant le plus de fois remporté est le meilleur joueur de l'histoire du football <a href="https://www.gala.fr/stars_et_gotha/lionel_messi" target="_blank">Lionel Andrés Messi Cuccitini</a>, Lionel Messi, avec un 8ème trophée remporté le 30 octobre dernier, soit 3 de plus que son éternel dauphin Cristiano Ronaldo.</p>
+                &nbsp
+                <p>Le prix <a href="https://www.fifa.com/fr/the-best-fifa-football-awards/best-fifa-mens-player" target="_blank">FIFA The Best</a>, organisé par la FIFA donc, récompense le meilleur joueur de l'année dans les compétitions reconnues par la FIFA. Les lauréats sont sélectionnés par un vote comprenant les capitaines et les entraîneurs des équipes nationales, ainsi que des journalistes et les fans.</p>
+                <p>Le prix étant instauré en 2016 seulement, 7 trophées ont été décernés à l'heure actuelle et Lionel Messi, Robert Lewandowski et Cristiano Ronaldo l'ont remporté à 2 reprises chacun.</p>
+                &nbsp
+                <p>Le <a href="https://fr.wikipedia.org/wiki/Soulier_d%27or_européen" target="_blank">Soulier d'Or</a> récompense le meilleur buteur des championnats européens. Les buts sont pondérés en fonction de la compétitivité de chaque ligue, et le prix est décerné au joueur ayant marqué le plus de buts ajustés.</p>
+                <p>La encore, Lionel Messi est celui ayant remporté le plus de fois ce prix, n'évoluant pourtant même pas au poste de buteur, en étant 6 fois lauréats.</p>
+            </div>
+
+            <div class="imageS">
+                <img src="../Images/messiBO2012.jpg">
+            </div>
+
+        </div>
+
+
+        <script>
+            
+            // Code JavaScript que j'ai trouvé sur Internet pour modifier la taille de l'image en fonction de la taille de la zone de texte car je n'arrivais pas à le faire entièrement en CSS
+            const sections = document.querySelectorAll('.sections');
+            sections.forEach((section) => {
+                const sectionText = section.querySelector('.texteS');
+                const sectionImage = section.querySelector('.imageS');
+                const textHeight = sectionText.clientHeight;
+                sectionImage.style.height = textHeight + 'px';
+            });
+
+        </script>
+        
+        
+    </int>
+
+    &nbsp
+
+</body>
+</html>
