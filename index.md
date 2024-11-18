@@ -15,12 +15,6 @@
         <retour>
             <a href="index.html"><img width="7%" src="Images/retour.png"></a>
         </retour>
-
-        <ul>
-            <li><a href="index.html">Accueil</a></li>
-            <li><a href="interet.html">Intérêts</a></li>
-            <li><a href="apprentissage.html">Apprentissage</a></li>
-        </ul>
     
     </barreNav>
     
