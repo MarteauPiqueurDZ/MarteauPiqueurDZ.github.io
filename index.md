@@ -13,7 +13,7 @@
     <div class="textePres">
 
         <h2>Sullyvan DE AMARO</h2>
-        <p>Je suis un étudiant de 18 ans actuellement en deuxième année de BUT Science des Données suivant le parcours visualisation, conception d’outils décisionnels.</p>
+        <p>Je suis un étudiant de 19 ans actuellement en troisième année de BUT Science des Données suivant le parcours visualisation, conception d’outils décisionnels.</p>
     
     </div>
 </body>
