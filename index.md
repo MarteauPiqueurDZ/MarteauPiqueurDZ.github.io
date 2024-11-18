@@ -10,14 +10,6 @@
 </head>
 <body>
     
-    <barreNav>
-
-        <retour>
-            <a href="index.html"><img width="7%" src="Images/retour.png"></a>
-        </retour>
-    
-    </barreNav>
-    
     <div class="textePres">
 
         <h2>Sullyvan DE AMARO</h2>
