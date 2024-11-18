@@ -3,10 +3,9 @@
   <body>
     <pre class="mermaid">
   graph LR
-      michou --- elsa
-      elsa-->hommeA[fa:fa-ban forbidden]
-      elsa-->hommeB[fa:fa-ban forbidden]
-      elsa-->hommeC[fa:fa-ban forbidden];
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
     </pre>
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
