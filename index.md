@@ -4,8 +4,8 @@
 
     <title>Accueil</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../CSS/index.css">
-    <link rel="icon" href="../Images/icone_accueil.png"/>
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="Images/icone_accueil.png"/>
     
 </head>
 <body>
@@ -13,7 +13,7 @@
     <barreNav>
 
         <retour>
-            <a href="index.html"><img width="7%" src="../Images/retour.png"></a>
+            <a href="index.html"><img width="7%" src="Images/retour.png"></a>
         </retour>
 
         <ul>
