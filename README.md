@@ -1,37 +1,82 @@
--Jeune étudiant en science des données, je souhaite développer mes compétences
-professionnelles tout en poursuivant ma formation. C'est pourquoi je recherche
-une alternance qui débuterait en octobre 2023 pour une durée de 2 ans. Motivé,
-dynamique et doté d'une bonne capacité d'adaptation, j'ai développé, au cours de
-ma première année à l'université, des compétences en visualisation de données,
-cartographie, développement, bases de données et statistiques
+# Sullyvan DE AMARO
 
+**Recherche d'une alternance en Science des Données (à partir d'octobre 2023)**
 
-##DIPLÔMES ET FORMATIONS
-###BUT SD - Science des Données
-2022 - 2025 IUT de Perpignan Carcassonne 11000
-Anciennement STID - STatistique et Informatique Décisionnelle
-Baccalauréat Général
-2022 Lycée Clément Marot Cahors 46000
-Enseignement de spécialité choisis : Mathématiques, SES (Sciences
-Economiques et Sociales), NSI (Numérique et Sciences Informatiques)
-###Diplôme National du Brevet
--2019 Collège Max Dussuchal Villers-Cotterêts 02600
--Enseignement général, mention Très Bien
+## Informations personnelles
+- **Date de naissance** : 02/09/2005  
+- **Adresse** : 699 Route De Mélines, Tour-de-Faure 46330  
+- **Téléphone** : 06 31 16 52 38  
+- **E-mail** : [sdeamaro.00@gmail.com](mailto:sdeamaro.00@gmail.com)  
+- **Mobilité** : Nationale  
 
+---
 
-##PROJETS UNIVERSITAIRES
-###Analyse de données, reporting et datavisualisation
--Création d'un reporting automatisé pour représenter graphiquement l'avancement du projet
--Récupération, filtrage puis tri des données observées par un télescope de la NASA (Fermi LAT)
--Développement d’une visualisation de ces données
--Réalisation d'un rapport du projet présenté à l'oral
+## Diplômes et formations
 
-###Challenge Dataviz
--Challenge qui met en compétition tous les départements qui accueillent notre formation
--Création d'une datavisualisation sous Power BI avec les mêmes données pour tous les participants (données fournies par la SNCF)
+### BUT SD - Science des Données  
+2022 - 2025, **IUT de Perpignan Carcassonne** (11000)  
+- Anciennement STID (Statistique et Informatique Décisionnelle)
 
-###Création de reporting à partir de données stockées dans un SGBD relationnel
-sous ACCESS
--Analyse des données d'une entreprise, puis insertion des données de la manière la plus rapide dans différentes tables
--Création de requêtes préalables à la construction de tableaux de bord
--Création de différents états et indicateurs permettant à la société de mieux visualiser le travail de ses équipes grâce aux tableaux de bord créés
+### Baccalauréat Général  
+2022, **Lycée Clément Marot Cahors** (46000)  
+- Enseignements de spécialité : Mathématiques, Sciences Économiques et Sociales (SES), Numérique et Sciences Informatiques (NSI)
+
+### Diplôme National du Brevet  
+2019, **Collège Max Dussuchal Villers-Cotterêts** (02600)  
+- Mention Très Bien  
+
+---
+
+## Projets universitaires
+
+### Analyse de données, reporting et datavisualisation  
+02/2023 - 06/2023  
+- Création d'un reporting automatisé pour représenter graphiquement l'avancement d’un projet.  
+- Récupération, filtrage et tri des données observées par un télescope de la NASA (Fermi LAT).  
+- Développement d’une visualisation des données.  
+- Réalisation d'un rapport présenté à l'oral.
+
+### "Challenge Dataviz"  
+05/2023  
+- Compétition inter-départements avec les mêmes données (fournies par la SNCF).  
+- Création d'une datavisualisation sous Power BI.
+
+### Reporting à partir de données stockées dans un SGBD relationnel (ACCESS)  
+01/2023  
+- Analyse des données d'une entreprise, insertion rapide dans différentes tables.  
+- Création de requêtes pour construire des tableaux de bord.  
+- Production d'états et d'indicateurs pour visualiser le travail des équipes.
+
+---
+
+## Compétences
+
+### Informatique
+- **Reporting** : Création et gestion de SGBD, datavisualisation, cartographie SIG.  
+- **Développement** : Programmation objet avec Python.  
+
+### Statistique
+- Calculs statistiques.  
+- Analyse et mise en forme de données statistiques.  
+
+---
+
+## Langues
+- **Anglais** : Niveau B1  
+- **Espagnol** : Niveau A2  
+
+---
+
+## Langages utilisés
+- HTML, Python, R, SAS, SQL  
+
+## Logiciels maîtrisés
+- ArcMap, Looping, Microsoft Access, Pack Office, PostgreSQL, Power BI, RStudio, Sphinx, Spyder  
+
+---
+
+## Centres d'intérêt
+- Football (pratiqué depuis l'âge de 9 ans)  
+- Sports mécaniques  
+- Musique  
+- Voyages : Espagne, Martinique, Portugal  
